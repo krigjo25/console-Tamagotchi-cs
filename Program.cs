@@ -6,7 +6,7 @@
         public static void Main()
         {
 
-            // Initializing an object
+            // Initializing an instance
             Tamagotchi tama = new Tamagotchi("Kake navn", 25);
 
             tama.BarOMeter();
