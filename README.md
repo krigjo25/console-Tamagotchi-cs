@@ -1,5 +1,5 @@
 # console-Tamagotchi
-The Console Simulates a basic Tamagotchi named "kake"
+The Console Simulates a basic Tamagotchi named "kake"<br>
 The project was created as a couple programming assignment for [Get Academy](https://getacademy.no)<br>
 Please respect and keep
 the [Academic Honesty Integerty](https://ctl.columbia.edu/resources-and-technology/resources/academic-integrity/) in
